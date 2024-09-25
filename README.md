@@ -1,3 +1,3 @@
-# 732A93_StatisticalMethods
+# 732A83_StatisticalMethods
 
 Statistical Methods course
